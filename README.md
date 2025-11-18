@@ -1,6 +1,8 @@
-# TinyExt - 扩展的TINY编译器
+# TinyExt
 
 TinyExt 是一个基于经典TINY语言的扩展编译器项目，使用Qt框架构建图形用户界面，提供了完整的词法分析、语法分析和可视化功能。
+<img width="1081" height="653" alt="屏幕截图 2025-11-18 171304" src="https://github.com/user-attachments/assets/6eea5951-1456-4afe-bf5c-09aa1ab8870a" />
+<img width="1078" height="649" alt="屏幕截图 2025-11-18 171238" src="https://github.com/user-attachments/assets/9c4da0ed-2503-434c-a1dc-ce19ce6076a8" />
 
 ## 🎯 项目概述
 
