@@ -152,10 +152,6 @@ z := x OR y;
 - 使用 `TraceParse` 查看语法分析过程
 - 使用 `TraceAnalyze` 查看语义分析过程
 
-## 📄 许可证
-
-本项目基于教育目的开发，参考了Kenneth C. Louden的《Compiler Construction: Principles and Practice》。
-
 ## 🤝 贡献
 
 欢迎提交Issue和Pull Request来改进项目。
